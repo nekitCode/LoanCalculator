@@ -1,1 +1,1 @@
-# nekitCode.github.io
+Loan calculator
